@@ -1,0 +1,7 @@
+.vscode/
+.ipynb_checkpoints/
+**.ipynb_checkpoints/
+**.pyc
+*.local.ipynb
+
+.DS_Store
