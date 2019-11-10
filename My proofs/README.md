@@ -1,2 +1,0 @@
-# MAISAI
-School of AI
